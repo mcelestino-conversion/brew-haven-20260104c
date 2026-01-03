@@ -1,0 +1,13 @@
+{
+  "canon_version": "1.0",
+  "description": "a modern caf\u00e9 ecommerce web app built with next.js, typescript, and tailwind css. includes a shopping cart, stripe payment integration, authentication, admin dashboard, seo optimization, and analytics tracking.",
+  "project": {
+    "framework": "nextjs",
+    "language": "typescript",
+    "name": "brew haven 20260104c",
+    "type": "web_app"
+  },
+  "styling": {
+    "framework": "tailwind"
+  }
+}
